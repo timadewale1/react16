@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react16/static/css/main.34c2020e.css",
+    "main.js": "/react16/static/js/main.96b4d3d8.js",
+    "static/media/gericht.png": "/react16/static/media/gericht.d800d24737ff0bb5de73.png",
+    "static/media/gpt3.png": "/react16/static/media/gpt3.9bf6532fe9b6003ff584.png",
+    "static/media/main.png": "/react16/static/media/main.d49cdda124220a478983.png",
+    "static/media/huddle.png": "/react16/static/media/huddle.083f04423be10fc36cc1.png",
+    "static/media/Timilehin.pdf": "/react16/static/media/Timilehin.938e45aca61cc28ba148.pdf",
+    "static/media/countryAPI.png": "/react16/static/media/countryAPI.5c31f165be344cbf716d.png",
+    "static/media/trade.png": "/react16/static/media/trade.307cbbe8542673961f8a.png",
+    "index.html": "/react16/index.html",
+    "main.34c2020e.css.map": "/react16/static/css/main.34c2020e.css.map",
+    "main.96b4d3d8.js.map": "/react16/static/js/main.96b4d3d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c2020e.css",
+    "static/js/main.96b4d3d8.js"
+  ]
+}
